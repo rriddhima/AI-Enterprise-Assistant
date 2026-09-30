@@ -7,3 +7,5 @@ sentence-transformers
 langgraph
 langchain-core
 numpy
+torch
+torchvision
