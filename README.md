@@ -1,3 +1,7 @@
+## 🚀 Live Demo
+
+👉 [AI Enterprise Knowledge Assistant](https://ai-enterprise-assistant.streamlit.app/)
+
 # AI Enterprise Knowledge Assistant
 
 A multi-agent RAG (Retrieval-Augmented Generation) application built with
